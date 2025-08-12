@@ -20,5 +20,13 @@
     "npm": "^11.4.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@clerk/clerk-sdk-node": "^5.1.6",
+    "@clerk/express": "^1.7.17",
+    "@supabase/supabase-js": "^2.50.2",
+    "@types/cors": "^2.8.19",
+    "cors": "^2.8.5",
+    "zod": "^3.25.67"
   }
 }
